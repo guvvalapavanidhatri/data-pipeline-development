@@ -35,3 +35,8 @@ Automated data refresh for dashboards (e.g., Tableau, Power BI)
 Building a foundation for machine learning pipelines
 
 Real-time alerting systems based on data changes
+
+
+*#OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/93c6c274-8c45-4310-9896-91bfcf25265b)
