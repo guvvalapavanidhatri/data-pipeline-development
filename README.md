@@ -40,3 +40,7 @@ Real-time alerting systems based on data changes
 *#OUTPUT*
 
 ![Image](https://github.com/user-attachments/assets/93c6c274-8c45-4310-9896-91bfcf25265b)
+
+![Image](https://github.com/user-attachments/assets/9712d982-fce5-41bc-a623-2d475bcf35a0)
+
+![Image](https://github.com/user-attachments/assets/58043e15-5c69-477c-83f9-0aa8b89caca7)
