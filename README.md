@@ -28,8 +28,10 @@ Monitors and logs the process for performance, errors, and transparency
 
 Use Cases:
 
-ETL for data warehousing
+ETL/ELT pipelines for business intelligence and analytics
 
-Real-time or batch analytics
+Automated data refresh for dashboards (e.g., Tableau, Power BI)
 
-Data integration for reporting dashboard
+Building a foundation for machine learning pipelines
+
+Real-time alerting systems based on data changes
